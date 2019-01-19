@@ -2,7 +2,7 @@
 
 This year our good friends at Aragon are offering a prize for the best project that uses their DAO framework.
 
-## What is a DOA?
+## What is a DAO?
 
 (D)ecentralized - to distribute administrative powers or functions
 
